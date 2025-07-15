@@ -2,14 +2,14 @@
 
 ### About Me
 
-My name is **Chairunisa Rahma Putri**. I am passionate about Information Technology, especially in IT Infrastructure, including **Networking, Cloud Computing, Database Management, and Blue Team Security**.
+My name is **Chairunisa Rahma Putri**. I am passionate about Information Technology, especially in IT Infrastructure, including **Networking, Cloud Computing, Pentesting, and Security Analysis**.
 
-🔭 I’m currently working at **PT Idemitsu Lube Techno** as a **Digital Transformation Intern**.<br>
+🔭 I’m currently working at **PT Idemitsu Lube Techno** as a **Digital Transformation (DX) Intern**.<br>
 🌱 I’m currently studying at **Universitas Pendidikan Indonesia**, majoring in **Telecommunication Engineering**.<br>
 
 ### Certifications
 I have obtained several certifications to enhance my expertise, including:
-- **JNA (Jaringan Nirkabel Andal)**
+- **JNA (Junior Network Administration)**
 - **TUJK (Teknisi Utama Jaringan Komputer)**
 - **FCA Cyber Security**
 - **IC3 Digital Literacy**
